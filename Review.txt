@@ -1,0 +1,3 @@
+Push thì push cả ảnh lên. ko puhs ảnh anh chạy bằng ntin ak.
+Bắn là 1 hành động của Tank. Các viên đạn bắn ra thuộc chủ quyền có Tank.
+=> trong Tank có phương thức(hàm) shot() hàm này sẽ bắn ra Bullet rồi đưa nó vào mảng Bullet là 1 member(biến) trong Tank.
